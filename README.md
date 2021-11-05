@@ -1,10 +1,3 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-# twitter-sentiment-NLP
-This is a twitter sentiment analysis project using Natural Language Processing
-=======
->>>>>>> Stashed changes
 # Twitter Sentiment Analysis using NLP
 
 ## What is Twitter Sentiment Analysis?
