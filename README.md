@@ -28,22 +28,22 @@ Logistic Regression performs the best in this case to predict the model.
 
 ## Train vs Test split
 
-<img src="https://github.com/SouvikGhosh05/twitter-sentiment-NLP/blob/main/pics/Train_test_tweets.JPG" alt="Train vs Test split">
+![Train vs Test split](/pics/Train_test_tweets.JPG)
 
 ## Intensity of Positive Words
 
-<img src="https://github.com/SouvikGhosh05/twitter-sentiment-NLP/blob/main/pics/Intensity_of_positive_words.JPG" alt="Intensity of Positive Words">
+![Intensity of Positive Words](/pics/Intensity_of_positive_words.JPG)
 
 ## Intensity of Negative Words
 
-<img src="https://github.com/SouvikGhosh05/twitter-sentiment-NLP/blob/main/pics/Intensity_of_negative_words.JPG" alt="Intensity of Negative Words">
+![Intensity of Negative Words](/pics/Intensity_of_negative_words.JPG)
 
 ## Positive Wordcloud
 
-<img src="https://github.com/SouvikGhosh05/twitter-sentiment-NLP/blob/main/pics/Positive_wordcloud.JPG" alt="Positive Wordcloud">
+![Positive Wordcloud](/pics/Positive_wordcloud.JPG)
 
 ## Negative Wordcloud
 
-<img src="https://github.com/SouvikGhosh05/twitter-sentiment-NLP/blob/main/pics/Negative_wordcloud.JPG" alt="Negative Wordcloud">
+![Negative Wordcloud](/pics/Negative_wordcloud.JPG)
 
 Happy Coding! ✨
