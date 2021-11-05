@@ -46,8 +46,4 @@ Logistic Regression performs the best in this case to predict the model.
 
 ![Negative Wordcloud](https://github.com/SouvikGhosh05/twitter-sentiment-NLP/blob/main/pics/negative_wordcloud.png)
 
-Happy Coding! :)
-<<<<<<< Updated upstream
-=======
->>>>>>> bf2d91e (initial files added)
->>>>>>> Stashed changes
+Happy Coding! ✨
