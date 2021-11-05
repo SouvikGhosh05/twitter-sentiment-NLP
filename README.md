@@ -1,3 +1,10 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+# twitter-sentiment-NLP
+This is a twitter sentiment analysis project using Natural Language Processing
+=======
+>>>>>>> Stashed changes
 # Twitter Sentiment Analysis using NLP
 
 ## What is Twitter Sentiment Analysis?
@@ -28,7 +35,7 @@ Logistic Regression performs the best in this case to predict the model.
 
 ## Train vs Test split
 
-![Train vs Test split](https://github.com/SouvikGhosh05/twitter-sentiment-NLP/blob/main/pics/train_test_split.png)
+![Train vs Test split](https://github.com/SouvikGhosh05/twitter-sentiment-NLP/blob/main/pics/train_test_tweets.png)
 
 ## Intensity of Positive Words
 
@@ -47,3 +54,7 @@ Logistic Regression performs the best in this case to predict the model.
 ![Negative Wordcloud](https://github.com/SouvikGhosh05/twitter-sentiment-NLP/blob/main/pics/negative_wordcloud.png)
 
 Happy Coding! :)
+<<<<<<< Updated upstream
+=======
+>>>>>>> bf2d91e (initial files added)
+>>>>>>> Stashed changes
