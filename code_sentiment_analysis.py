@@ -22,9 +22,10 @@ drive.mount('/content/drive/')
 
 """## Loading Libraries and Data (Applicable for Google Drive)"""
 
+'''
 !ls '/content/drive/My Drive/assets/'  # Create a folder in the drive named 'assets' and put the datasets in it
 #%cd '/content/drive/My Drive/assets/'
-!ls # check if the files are in the drive
+!ls # check if the files are in the drive'''
 
 # Commented out IPython magic to ensure Python compatibility.
 import re # for regular expressions
