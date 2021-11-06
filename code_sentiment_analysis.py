@@ -15,19 +15,16 @@ Understanding the problem statement is the first and foremost step. This would h
 __*The objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.*__
 
 Formally, given a training sample of tweets and labels, where label '1' denotes the tweet is racist/sexist and label '0' denotes the tweet is not racist/sexist, your objective is to predict the labels on the test dataset.
-
-*You can access the problem statement and the data over [here](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/).*
 """
 
 from google.colab import drive
 drive.mount('/content/drive/')
 
-"""## Loading Libraries and Data"""
+"""## Loading Libraries and Data (Applicable for Google Drive)"""
 
-# Commented out IPython magic to ensure Python compatibility.
-!ls '/content/drive/My Drive/twitter_sentiment_data/'
-# %cd '/content/drive/My Drive/twitter_sentiment_data'
-!ls
+!ls '/content/drive/My Drive/assets/'  # Create a folder in the drive named 'assets' and put the datasets in it
+#%cd '/content/drive/My Drive/assets/'
+!ls # check if the files are in the drive
 
 # Commented out IPython magic to ensure Python compatibility.
 import re # for regular expressions
@@ -45,8 +42,8 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 """Let's read train and test datasets."""
 
-train  = pd.read_csv('train_tweets.csv')
-test = pd.read_csv('test_tweets.csv')
+train  = pd.read_csv('assets/train_tweets.csv')
+test = pd.read_csv('assets/test_tweets.csv')
 
 """## Text PreProcessing and Cleaning
 
